@@ -1,0 +1,20 @@
+decreasing channel to 1
+increasing channel to 2
+cannot change channel to 100
+increasing volume to 11
+decreasing volume to 10
+assistant: "increasing channel"
+increasing channel to 3
+assistant: "decreasing channel"
+decreasing channel to 2
+assistant: "increasing volume"
+increasing volume to 11
+assistant: "decreasing volume"
+decreasing volume to 10
+assistant: "changing channel to 50"
+changing channel to 50
+assistant: "exception occurred"
+exception: hello tv
+changing channel to 13
+assistant: "This is the TV [currentChannel = 13, currentVolume = 10, model = nebula]"
+Testing logging functionality

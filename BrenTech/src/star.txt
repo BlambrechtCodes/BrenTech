@@ -1,7 +1,0 @@
-decreasing channel to 1
-increasing channel to 2
-cannot change channel to 100
-increasing volume to 11
-decreasing volume to 10
-changing channel to 13
-Testing logging functionality
